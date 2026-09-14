@@ -9,7 +9,6 @@ with industry and research experience across data science, machine learning, and
 - Deep Learning
 - Generative AI
 - Data Science
-- ML Algorithms & Optimization
 
 # Industry Experience
 My internship experience includes data science, machine learning, and generative AI across healthcare, data warehousing, and advertising technology. I applied data science and AI to several real-world problems at CVS Health. I built Firebolt's first major AI initiative: a RAG-powered support chatbot. At The Trade Desk, I optimized long-term forecasting while protecting user privacy.
