@@ -17,13 +17,10 @@ My internship experience includes data science, machine learning, and generative
 Developed data oversampling algorithms to improve ML models for predicting asthma risk. Applied LLMs and named entity recognition on text data related to police misconduct. I also contributed to a published [IEEE paper](https://ieeexplore.ieee.org/document/10314855) on the asthma-risk prediction research.
 
 # Technologies
-**Languages:** Python, R, SQL, Scala
-
-**ML/Data Science:** Scikit-learn, Keras, Pandas, NumPy, Spark
-
-**AI/NLP:** LangChain, Python Flair library, HuggingFace, LLMs, RAG
-
-**Other:** AWS, Matplotlib, Seaborn, JAX
+- **Languages:** Python, R, SQL, Scala
+- **ML/Data Science:** Scikit-learn, Keras, Pandas, NumPy, Spark
+- **AI/NLP:** LangChain, Python Flair library, HuggingFace, LLMs, RAG
+- **Other:** AWS, Matplotlib, Seaborn, JAX
 
 # Connect
 [LinkedIn](https://www.linkedin.com/in/david-stanko/)
